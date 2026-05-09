@@ -1076,7 +1076,6 @@ export default function CryptoDevGuide() {
           borderBottom: "1px solid rgba(255,255,255,0.06)",
           padding: "20px 24px",
           background: "rgba(255,255,255,0.02)",
-          backdropFilter: "blur(10px)",
           position: "sticky",
           top: 0,
           zIndex: 100,
